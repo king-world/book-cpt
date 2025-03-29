@@ -7,7 +7,7 @@
  */
 
 if (!defined('ABSPATH')) {
-    exit; // Exit if accessed directly.
+    exit;
 }
 
 class Book_Custom_Post_Type {
